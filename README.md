@@ -27,6 +27,3 @@ Typescript
 
 # 作成者
 yuki.Echigawa
-
-# 情報提供元
-Reactサイト

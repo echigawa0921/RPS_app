@@ -26,7 +26,7 @@ Typescript
 
 
 # 作成者
-yuki.Echigawa
+yuki.   .Echigawa
 
 # Getting Started with Create React App
 
